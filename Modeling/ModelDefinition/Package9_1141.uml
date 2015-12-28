@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="7f4cefcb-8a47-4efc-99e5-cccdb32b2258"
+  name="CrossCutting"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="b5e5764c-67cc-46dc-b14e-73d50ef2a2f6"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DWebServiceManager.CrossCutting"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="d384f471-247b-403e-be3d-2107b31b10b1"
+        LastKnownName="Interfaces"
+        LastKnownLocation="Package10_1141.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="00f947e5-cfd7-468c-b3da-4c7bb532dfc4"
+        LastKnownName="Helpers"
+        LastKnownLocation="Package19_1141.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

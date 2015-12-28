@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="UML">
+  <logicalClassDesignerModelMoniker Id="de934d1d-4542-44de-98f7-ee0bf81c3655" />
+  <nestedChildShapes>
+    <classShape Id="19a89cd4-28ec-4589-b28b-4315d0552195" absoluteBounds="0.5, 1.5, 6.75, 3.10971055984497" hideQualifiedName="false" increaseHeight="0.18800345897674561" customColor="181, 193, 223">
+      <classMoniker Id="3f952811-be05-4df4-930f-2d51e177eafc" LastKnownName="UpdateEntry" />
+      <nestedChildShapes>
+        <AttributeElementListCompartment Id="3549ecf0-7dea-4301-a46c-a30e798c2c03" absoluteBounds="0.515, 2.0153356393178306, 6.7200000000000006, 1.3222655827800431" name="AttributesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <OperationElementListCompartment Id="0e531186-5a7b-4887-ac58-a40bdebe0ab2" absoluteBounds="0.515, 3.3476012220978735, 6.7200000000000006, 1.1621093377470968" name="OperationsCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="68d7796d-20dc-4553-a400-da9d33a01cd5" absoluteBounds="0.5, 5.125, 4.5, 2.7893980697790783" hideQualifiedName="false" increaseHeight="0.18800345897674561" customColor="181, 193, 223">
+      <classMoniker Id="635b61e0-3b84-4272-abfe-0ba70da6d020" LastKnownName="DBContext" />
+      <nestedChildShapes>
+        <AttributeElementListCompartment Id="ec142e6e-83ae-4736-9b61-1f4300b46172" absoluteBounds="0.51500000000000057, 5.640335639317831, 4.4700000000000006, 0.52148435761531176" name="AttributesCompartment" titleTextColor="Black" itemTextColor="Black" />
+        <OperationElementListCompartment Id="81d45b61-a72b-4230-a412-8fc603fbaa15" absoluteBounds="0.51500000000000057, 6.1718199969331424, 4.4700000000000006, 1.642578072845936" name="OperationsCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</logicalClassDesignerDiagram>

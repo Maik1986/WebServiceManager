@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WebServiceManager.Data.Storage" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="user" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">webserviceupdate</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">wsupdate</Value>
+    </Setting>
+    <Setting Name="server" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">localhost\SQLEXPRESS</Value>
+    </Setting>
+    <Setting Name="database" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">WebServiceUpdate</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
